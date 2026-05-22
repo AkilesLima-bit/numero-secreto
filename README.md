@@ -5,6 +5,17 @@
 
 </p>
 
+## 🎯 Funcionalidades
+
+- 🎲 **Geração aleatória** – Número secreto sorteado a cada partida
+- ⌨️ **Entrada de palpite** – Sistema valida o número digitado
+- 💡 **Dicas dinâmicas** – Informa se o número é maior ⬆️ ou menor ⬇️
+- 🔢 **Contador de tentativas** – Mostra quantas tentativas foram feitas
+- 🔊 **Feedback visual** – Mensagens claras sobre o resultado
+- 🔄 **Reinício rápido** – Botão "Novo jogo" sem recarregar a página
+- 🛡️ **Validação de entrada** – Bloqueia números inválidos ou fora do intervalo
+- 📱 **Design responsivo** – Funciona em qualquer dispositivo
+
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
